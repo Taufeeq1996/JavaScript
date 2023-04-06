@@ -83,6 +83,6 @@ for(let i = 0; i<word.length; i++){
 if(isNonRepeating == false){
     console.log('no repeating character');
 }
-console.log('just trying git');
+
 
 
